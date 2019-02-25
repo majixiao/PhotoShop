@@ -1,0 +1,17 @@
+删除选区 ctrl+d
+填充  alt+delete
+等比例缩放 shift+光标
+中心等比例缩放 shift+alt+光标
+
+
+
+
+等距离复制
+原地复制 ctrl+j
+选中 Ctrl+t
+方向键移动
+等距离复制 ctrl+shift+alt+t(注意先按回车)
+
+
+
+合并图层 ctrl+e
