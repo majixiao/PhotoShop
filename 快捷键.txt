@@ -23,3 +23,11 @@
 
 使用钢笔能更好的进行抠图
 路径转换为选区 ctrl+entner
+
+反相 ctrl+i
+
+色阶 ctrl+l
+
+去色 ctrl+shift+u(变成黑白)
+
+色相、饱和度  ctrl+us
