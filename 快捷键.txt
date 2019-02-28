@@ -11,7 +11,7 @@
 选中 Ctrl+t
 方向键移动
 等距离复制 ctrl+shift+alt+t(注意先按回车)
-
+反选 ctrl+shift+i
 
 
 合并图层 ctrl+e
@@ -30,4 +30,8 @@
 
 去色 ctrl+shift+u(变成黑白)
 
-色相、饱和度  ctrl+us
+色相、饱和度  ctrl+u
+
+曲线 ctrl+m
+
+标尺 ctrl+r
